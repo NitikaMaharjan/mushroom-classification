@@ -108,7 +108,7 @@ To classify mushrooms as edible or poisonous, multiple supervised machine learni
 
 ## Comparing Performance Using Classification Metrics Table
 
-<img src="img/metrics-table.jpg">
+<img src="img/metrics-table.JPG">
 
 **Accuracy**
 
