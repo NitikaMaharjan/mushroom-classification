@@ -196,7 +196,9 @@ These features were found to be the most influential in determining whether a mu
 
 Check out analysis on Python Jupyter notebook [mushroom-classification.ipynb](https://github.com/NitikaMaharjan/mushroom-classification/blob/main/mushroom-classification.ipynb).
 
+## Contact Me
 
+Created by [Nitika Maharjan](https://github.com/NitikaMaharjan)  
+Email: [maharjanitika@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=maharjanitika@gmail.com) 
 
-
-
+Feel free to connect on GitHub or reach out via email for collaboration!
